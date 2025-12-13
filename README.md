@@ -6,9 +6,9 @@
   ### Information Systems Student at Universitas Bina Sarana Informatika
 
   <p align="center">
-  Information Systems Student<br/>
-  Computer and Network Engineering  at Public Vocational Highschool 53 Jakarta(SMKN 53 Jakarta)<br/>
-  Portfolio & Academic Coursework
+    Graduate of Computer and Network Engineering from Public Vocational High School 53 Jakarta (SMKN 53 Jakarta), with a strong foundation in networking, computer systems, and technical problem-solving.
+    Currently pursuing a Bachelor’s degree in Information Systems at Universitas Bina Sarana Informatika, focusing on the integration of information technology, business processes, and systems analysis.
+    Portfolio & Academic Coursework reflect competencies in information systems fundamentals.
   </p>
 
   
