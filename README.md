@@ -126,10 +126,3 @@
 
 ---
 
-<div align="center">
-  
-  ### ⭐ From [DimasVSuper](https://github.com/DimasVSuper)
-  
-  *"Keep learning, keep coding!"*
-  
-</div>
