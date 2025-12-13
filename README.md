@@ -1,3 +1,14 @@
+<p align="center">
+  <img
+    src="https://github.com/dimasvsuper.png"
+    alt="Dimas Profile Picture"
+    width="150"
+    height="150"
+    style="border-radius: 50%;"
+  />
+</p>
+
+
 <h1 align="center">
   Hi 👋, I'm Dimas
 </h1>
