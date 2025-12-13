@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning **Laravel, Vue, Djanggo, Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DimasVSuper/DimasVSuper/](https://github.com/DimasVSuper/DimasVSuper/)
+- 👨‍💻 All of my projects are available at [https://github.com/DimasVSuper](https://github.com/DimasVSuper)
 
 - 💬 Ask me about **Laravel & MySQL**
 
