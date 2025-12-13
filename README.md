@@ -45,20 +45,21 @@
   </a>
 
   <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://www.w3.org/Style/CSS/logo.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://www.w3.org/Style/CSS/Overview.en.html" alt="CSS" width="40" height="40"/>
   </a>
 
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://static.djangoproject.com/img/logos/django-icon-positive.svg" alt="Django" width="40" height="40"/>
   </a>
-
+  
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="40" height="40"/>
   </a>
 
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://expressjs.com/images/express-facebook-share.png" alt="ExpressJS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/expressjs/expressjs.com/master/public/images/express-facebook-share.png" alt="ExpressJS" width="40" height="40"/>
   </a>
+
 
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>
@@ -104,13 +105,15 @@
     <img src="https://www.python.org/static/community_logos/python-logo-only.svg" alt="Python" width="40" height="40"/>
   </a>
 
+
   <a href="https://redis.io/" target="_blank">
-    <img src="https://redis.io/images/redis-white.png" alt="Redis" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/redis/redis-io/master/static/images/redis-logo.svg" alt="Redis" width="40" height="40"/>
   </a>
 
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.6ea76c3b.svg" alt="TailwindCSS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
+
 
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://www.typescriptlang.org/icons/icon-48x48.png" alt="TypeScript" width="40" height="40"/>
