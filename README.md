@@ -4,8 +4,13 @@
   # Hi 👋, I'm Dimas
   
   ### Information Systems Student at Universitas Bina Sarana Informatika
-  
-  *Someone who is passionate about Information Technology*
+
+  <p align="center">
+  Information Systems Student<br/>
+  Computer and Network Engineering  at Public Vocational Highschool 53 Jakarta(SMKN 53 Jakarta)<br/>
+  Portfolio & Academic Coursework
+  </p>
+
   
   <img src="https://komarev.com/ghpvc/?username=dimasvsuper&label=Profile%20views&color=0e75b6&style=flat" alt="dimasvsuper profile views" />
 </div>
