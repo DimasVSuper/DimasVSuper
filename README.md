@@ -21,7 +21,7 @@
 
 - 🌱 Currently learning **Laravel, Vue.js, Django, Docker**
 - 💼 All of my projects are available at [github.com/DimasVSuper](https://github.com/DimasVSuper)
-- 💬 Ask me about **Laravel & MySQL**
+- 💬 Ask me about **Laravel,MySQL, Djanggo & Vue**
 - 📫 How to reach me: Check out my social links below!
 
 ---
@@ -48,9 +48,6 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
