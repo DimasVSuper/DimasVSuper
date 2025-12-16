@@ -19,9 +19,9 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Laravel, Vue.js, Django, Docker**
+- 🌱 Currently learning **Laravel, React.js/Vue.js, Django**
 - 💼 All of my projects are available at [github.com/DimasVSuper](https://github.com/DimasVSuper)
-- 💬 Ask me about **Laravel,MySQL, Djanggo & Vue**
+- 💬 Ask me about **Laravel and MySQL**
 - 📫 How to reach me: Check out my social links below!
 
 ---
@@ -54,9 +54,6 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
   </a>
 </p>
 
