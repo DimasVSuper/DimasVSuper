@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Laravel & Django**
+- 🌱 Currently learning **Laravel**
 - 💼 All of my projects are available at [github.com/DimasVSuper](https://github.com/DimasVSuper)
 - 💬 Ask me about **Laravel and MySQL**
 - 📫 How to reach me: Check out my social links below!
