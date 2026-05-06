@@ -3,7 +3,7 @@
   
   # Hi 👋, I'm Dimas
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Information+Systems+Student;Fullstack+Laravel+Enthusiast;Network+Engineering+Graduate)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Information+Systems+Student;)](https://git.io/typing-svg)
 
   <p align="center">
     Graduate of <b>SMKN 53 Jakarta</b> with a background in Networking & Computer Systems. 
